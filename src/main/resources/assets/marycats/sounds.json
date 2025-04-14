@@ -1,0 +1,8 @@
+{
+  "entity.tiger.ambient": {
+    "subtitles": "sounds.marycats.tiger_ambient",
+    "sounds": [
+      "random/break"
+    ]
+  }
+}
